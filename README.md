@@ -8,8 +8,6 @@ A web application that let you to securely exchange messanges between users.
 Students of the Taras Shevchenko National University of Kyiv, Faculty of Cybernetics, 2nd year.
 Team `Wombats from Mehmat`:
 
-<img src='src/assets/wombat.webp' width=200px alt='wombat'/>
-
 - [Shapovalov Viacheslav](https://github.com/shap-po) - Team Leader / Frontend Developer
 - [Puzanov Pavlo](https://github.com/CrazyDuck192) - Backend Developer / Data Base Developer
 - [Kolesnikov Bogdan](https://github.com/amasyaska) - Backend Developer / Data Base Developer
